@@ -1,0 +1,10 @@
+Laptop_Gamer 1850.00 30
+Mouse_Optico 25.50 15
+Teclado_Mecanico 85.00 40
+Impresora 350.00 20
+Monitor_4K 1200.00 14
+Memoria_USB_64GB 15.00 25
+Silla_Ergonomica 450.00 10
+Impresora 950.00 14
+Audifonos_Bluetooth 60.00 15
+Disco_Duro_2TB 110.00 20

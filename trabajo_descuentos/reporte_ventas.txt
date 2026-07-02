@@ -1,0 +1,5 @@
+
+NUEVA SESION DE VENTAS
+Producto            Cant.     Subtotal       % Desc.        Desc. ($)      Total Pagado
+-----------------------------------------------------------------------------------------
+Disco_Duro_2TB      4         440.00         50.00          220.00         $220.00

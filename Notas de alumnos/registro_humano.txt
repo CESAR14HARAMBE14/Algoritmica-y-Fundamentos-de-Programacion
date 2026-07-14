@@ -1,0 +1,13 @@
+
+--- NUEVA SESION DE REGISTRO ---
+Nombre              Apellido(s)         Codigo         Promedio
+------------------------------------------------------------------
+Cesar               Quintana Tello      123            14.00
+Jorge               Paris Rafah         125            17.00
+Roth                Don Joe             125            3.00
+
+--- NUEVA SESION DE REGISTRO ---
+Nombre              Apellido(s)         Codigo         Promedio
+------------------------------------------------------------------
+Ed                  Gein Salas          666            20.00
+Hannibal            Lecter Bill         141            20.00

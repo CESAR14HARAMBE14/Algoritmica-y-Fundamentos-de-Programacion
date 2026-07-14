@@ -1,0 +1,5 @@
+Cesar,Quintana Tello,123,14
+Jorge,Paris Rafah,125,17
+Roth,Don Joe,125,3
+Ed,Gein Salas,666,20
+Hannibal,Lecter Bill,141,20
